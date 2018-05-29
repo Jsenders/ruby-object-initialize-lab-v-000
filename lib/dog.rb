@@ -17,10 +17,10 @@ class Dog
     @breed = bulldog
   end
 
-  def breed 
+  def breed
     @breed
   end
 end
-end
+
 
 chubby = Dog.new("Chubby", "Bulldog")
