@@ -24,4 +24,3 @@ end
 
 
 hank = Dog.new("Hank","Bulldog")
-fido = Dog.new("Fido")
