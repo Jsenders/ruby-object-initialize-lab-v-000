@@ -23,4 +23,4 @@ class Dog
 end
 
 
-chubby = Dog.new("Hank", "Bulldog")
+hank = Dog.new("Hank", "Bulldog")
